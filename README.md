@@ -2,6 +2,8 @@
 
 主要记录 FreeCAD 一些学习过程。
 
+所有内容将同步发布至简书文集 https://www.jianshu.com/nb/55287949
+
 ## 工作台（Workbench）开发笔记
 - [FreeCAD 工作台（Workbench）开发笔记『一』](./N001.md)
   - 示例代码：[examples/N001](./examples/N001)
